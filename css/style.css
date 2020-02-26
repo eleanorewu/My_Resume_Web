@@ -526,7 +526,7 @@ body.offcanvas {
   background: #f2f3f7;
   top: 20px;
   bottom: 20px;
-  margin-left: 29px; }
+  margin-left: 26px; }
 
 .timeline-centered .timeline-entry {
   position: relative;
@@ -541,8 +541,8 @@ body.offcanvas {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
   display: block;
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   background: #2c98f0;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
