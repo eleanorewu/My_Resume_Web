@@ -187,9 +187,9 @@ figure {
             -o-transform: scaleX(1);
             transform: scaleX(1); }
   #colorlib-aside .colorlib-footer {
-    font-size: 15px;
+    font-size: 14px;
     text-align: center;
-    font-weight: 400;
+    font-weight: 500;
     color: rgba(0, 0, 0, 0.5);
     padding: 0 20px;
     width: 100%; }
